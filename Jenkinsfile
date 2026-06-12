@@ -4,7 +4,7 @@ agent any
 
 environment {
     IMAGE_NAME = "girish8764/omega-restaurant-frontend"
-    APP_SERVER = "52.66.242.173"
+    APP_SERVER = "13.203.214.205"
 }
 
 stages {
